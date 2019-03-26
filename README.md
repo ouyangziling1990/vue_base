@@ -24,3 +24,7 @@ npm run test
 ```
 npm run lint
 ```
+### base info
+- author ziling
+- vue， vue-router, vuex, axios
+- vue 3.04
